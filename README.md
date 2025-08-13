@@ -1,22 +1,6 @@
 
 * Info: See PDF for images and better view...
 
-------------------------------------------------------------------------
-
-Warning
-
-Increasing speed of the laptop CPU can overheat the laptop, so, without a good cooler below laptop it will simply shut down because of overheat… I am suggesting you buying at least:
-https://www.coolermaster.com/en-global/products/notepal-i300/?tab=tech_spec
-
-Specifications:
-* Fan Dimensions (L x W x H)160 x 160 x 15 mm / 6.3 x 6.3 x 0.6 inch
-* Fan Speed 700–1400 RPM ± 150
-* Fan Airflow 35 - 70 CFM
-Laptop temperatures with this cooler always connected and working are:
-
-
-------------------------------------------------------------------------
-
 How to speed up your processor using Registry Keys
 -------------------------------------------------------------------------------
 
